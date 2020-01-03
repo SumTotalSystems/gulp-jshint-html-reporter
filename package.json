@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-jshint-html-reporter",
+        "scope": null,
+        "escapedName": "gulp-jshint-html-reporter",
+        "name": "gulp-jshint-html-reporter",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Work\\Projects\\gulp-jshint-html-reporter"
+    ]
+  ],
+  "_from": "gulp-jshint-html-reporter@latest",
+  "_hasShrinkwrap": false,
+  "_id": "gulp-jshint-html-reporter@0.1.4",
+  "_inCache": true,
+  "_location": "/gulp-jshint-html-reporter",
+  "_nodeVersion": "11.3.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gulp-jshint-html-reporter_0.1.4_1551806085036_0.38192280526219835"
+  },
+  "_npmUser": {
+    "name": "the-phoenix",
+    "email": "thesuphoenix@gmail.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gulp-jshint-html-reporter",
+    "scope": null,
+    "escapedName": "gulp-jshint-html-reporter",
+    "name": "gulp-jshint-html-reporter",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-jshint-html-reporter/-/gulp-jshint-html-reporter-0.1.4.tgz",
+  "_shasum": "076043baaa1e3a101a3a60c333bc1ed6347729ed",
+  "_shrinkwrap": null,
+  "_spec": "gulp-jshint-html-reporter",
+  "_where": "C:\\Work\\Projects\\gulp-jshint-html-reporter",
+  "author": {
+    "name": "the-phoenix",
+    "email": "9201924+the-phoenix@users.noreply.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/the-phoenix/gulp-jshint-html-reporter/issues"
+  },
+  "dependencies": {},
+  "description": "Simple generator of HTML report for gulp-jshint that writes its output to a html file which looks pretty",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-4/p73PHHpVp49tvS4XUMF4AsuE216tbELz5v2P5PKJLTQtYmNES7a2CZM9f9kIljkRSM65y/3E/L724FEukf1g==",
+    "shasum": "076043baaa1e3a101a3a60c333bc1ed6347729ed",
+    "tarball": "http://team.sumtotalsystems.com:8080/repository/npm-group/gulp-jshint-html-reporter/-/gulp-jshint-html-reporter-0.1.4.tgz",
+    "fileCount": 10,
+    "unpackedSize": 8875,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcfq6FCRA9TVsSAnZWagAAXZsQAIA3195GBD8FbIEiWelY\nc5WEcZHcRaM9rryQO0IkHPP1NKVJshfUaIA0U6yzV63aPxqoIaudProlTif3\nU/5ecMdGoDa7rFf1WUj9c/qSg2jvZWFaWT644z92ugQhwZKfpyPCoj9/qi3Q\n7NeJ8Dj/CmA38Drw+tUmxZFBPb538sx/s30cqxt19rxdMeHllcfIyR6P1e8l\nX9Dwt2LKW8EYpCkJF8XWD/encFTPrg6doO/lV/nc0PIbHN293O2M8VWnM4Dg\nyT9K+ykyJF8tUEnDs+kNjX/jV3/yd+7utX3aTlrDwfCpxjBO1gfzDGR98bWO\nqSL1d5UE8gXdfNFfwa1clLVi527UFnihctRECvn0nYU7tnDra2diyDypkADN\nv+HbkuDTkwY6DRUTOrs2zpshkUgFMX1daLhmr3dfd5wlaNHYtla09R/b8nUL\nxC16GZHE0HwGIutaJG0OyaSStfFk59MZHM26xBk9G79MPJnIuZYKdGP57YQR\nFbLSyFtDARQ7yS+P7iYBRBXBzqE7Kr+0U0auhIdfDvfZSOkHLA1+JXadwPDn\nFqOp1522oZZgRDBrV2EvIQMJr0T0JKn0ZR5feO3SsrObj5Qg5rHShkID1yu+\nDEvqlFQZxfLs2KBHkr5L+07Zg0tnfyAtA59sHv7ds0sDgBsRctVPmrgb3ZYH\ny0OC\r\n=jgrL\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "homepage": "https://github.com/the-phoenix/gulp-jshint-html-reporter",
+  "keywords": [
+    "gulp",
+    "jshint",
+    "reporter",
+    "html-reporter"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "the-phoenix",
+      "email": "thesuphoenix@gmail.com"
+    }
+  ],
+  "name": "gulp-jshint-html-reporter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-phoenix/gulp-jshint-html-reporter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}
