@@ -52,3 +52,4 @@ If disabled and the given path contains folders which do not exist, an ENOENT er
 - 0.1.1 Minor fix with configuration
 - 0.1.2 Minor bug fix on jshint output file
 - 0.1.3 Add option for create missing folder
+- 0.1.7 Update to nodejs 10.
