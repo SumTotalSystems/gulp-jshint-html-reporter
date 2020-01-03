@@ -114,7 +114,7 @@ module.exports = {
                 fs.mkdirTree(parent);
             }
             if (!fs.existsSync(dir)) {
-                fs.mkdir(dir);
+                fs.mkdirSync(dir);
             }
         }              
 
